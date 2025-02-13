@@ -9,4 +9,6 @@ StudySync is a simple and responsive frontend web project built using HTML and C
 - 🚀 Easy to navigate
 - 🌟 Built with pure HTML and CSS
 
+  You can visit marvellous UI based website here https://vedsojitra.github.io/StudySync/
+
 
